@@ -27,7 +27,7 @@ class Persona {
 
 	algunaVaina() {
 		alert(
-			`Hola, me llamo ${this.nombre}, y estoy un poquito aburrida, asi que ${this.apellido} me hizo esta chimbada de juego. Él es muy encantador y se que cuando nos veamos el domingo él y yo nos daremos ${this.edad} besos, y los ultimos 3 seran intensos JAJAJJAJAJJAJJA.`
+			`Hola, me llamo ${this.nombre}, y estoy un poquito aburrida, asi que ${this.apellido} me hizo esta chimba de juego. Él es muy encantador y se que cuando nos veamos en bogota él y yo nos daremos ${this.edad} besos, y los ultimos 3 seran intensos JAJAJJAJAJJAJJA. Y aparte ella prometio un baile sensual...`
 		);
 	}
 }
