@@ -1,6 +1,6 @@
 
 alert(
-	'Hola hola señorita Johana no se si usted sabia, pero yo soy programador web, y se me ocurrio la brillante idea de hacerle este mini juego, espero le guste, y en algun momento nos veremos, de hecho me muero por eso'
+	'Hola hola señorita no se si usted sabia, pero yo soy programador web, y se me ocurrio la brillante idea de hacerle este mini juego, espero le guste, y en algun momento nos veremos, de hecho me muero por eso'
 );
 
 class Persona {
@@ -27,7 +27,7 @@ class Persona {
 
 	algunaVaina() {
 		alert(
-			`Hola, me llamo ${this.nombre}, y estoy un poquito aburrida, asi que ${this.apellido} me hizo esta chimba de juego. Él es muy encantador y se que cuando nos veamos en bogota él y yo nos daremos ${this.edad} besos, y los ultimos 3 seran intensos JAJAJJAJAJJAJJA. Y aparte ella prometio un baile sensual...`
+			`Hola, me llamo ${this.nombre}, y estoy un poquito aburrida, asi que ${this.apellido} me hizo esta chimba de juego. Él es muy encantador y se que cuando nos veamos él y yo nos daremos ${this.edad} besos, y los ultimos 3 seran intensos JAJAJJAJAJJAJJA. Y aparte ella prometio un baile sensual...`
 		);
 	}
 }
